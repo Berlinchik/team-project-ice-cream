@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://DmytroRudenko11.github.io/BC-46-HelloWorld",
+  "homepage": "https://berlinchik.github.io/team-project-ice-cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /BC-46-HelloWorld/"
+    "build": "parcel build src/*.html --public-url /team-project-ice-cream/"
   },
   "repository": {
     "type": "git",
